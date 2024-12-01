@@ -11,7 +11,7 @@ const Authlayout = ({ children} :{ children: ReactNode}) => {
         shadow-md sm:min-w-[520px] sm:px-8'>
             <div className='flex items-center justify-between gap-2'>
                 <div className='space-y-2.5'>
-                    <h1 className='h2-bold text-dark100_light900'>Join DevFlow</h1>
+                    <h1 className='h2-bold text-dark100_light900'>Join CodeFlow</h1>
                     <p className='paragraph-regular
                     text-dark500_light400'>
                         To get your questions answered
